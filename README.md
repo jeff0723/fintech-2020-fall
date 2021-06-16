@@ -1,10 +1,26 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#Install 
+##Install 
+```
 git clone https://github.com/jeff0723/fintech-2020-fall.git
-
-
+```
+After you download the repository, type the following instructions in your terminal
+```
+cd fintech-2020-fall
+```
+To run server 
+```
+cd api
+source venv/bin/activate
+pip install -r requirements.txt
+flask run
+```
+To run client, you need to change your current repository back to fintech-2020-fall, and type the following instructions
+```
+npm install
+npm start
+```
 ## Available Scripts
 
 In the project directory, you can run:

@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Install 
+git clone https://github.com/jeff0723/fintech-2020-fall.git
+
 
 ## Available Scripts
 

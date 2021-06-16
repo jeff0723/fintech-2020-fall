@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 git clone https://github.com/jeff0723/fintech-2020-fall.git
 ```
-After you download the repository, type the following instructions in your terminal
+After you downloaded the repository, type the following instructions in your terminal
 ```
 cd fintech-2020-fall
 ```
